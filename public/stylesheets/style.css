@@ -1,0 +1,44 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: black;
+  color: white;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.btn-purple {
+    color: white !important;
+    background-color: #4902FF !important;
+    border-color: #4902FF !important;
+}
+
+.btn-pink {
+    color: white !important;
+    background-color: #FF69B4 !important;
+    border-color: #FF69B4 !important;
+}
+
+.btn-orange {
+    color: white !important;
+    background-color: #ff4500 !important;
+    border-color: #ff4500 !important;
+}
+
+.btn-grey {
+    color: white !important;
+    background-color: grey !important;
+    border-color: grey !important;
+}
+
+.btn-klay {
+    color: white !important;
+    background-color: brown !important;
+    border-color: brown !important;
+}
+
+.white {
+	color: white;
+}
